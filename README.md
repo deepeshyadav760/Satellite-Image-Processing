@@ -101,3 +101,4 @@ During the 2021 lockdown, the Sundarbans experienced a **notable decline in CO�
 We thank **Atria University** for institutional support and mentorship, and express our gratitude to satellite data providers — **USGS Landsat** and **NASA SRTM** — for their open-access geospatial datasets.
 
 > 🌏 *This project is a step toward climate resilience by harnessing data science and ecological intelligence to protect India’s blue carbon ecosystems.*
+# Carbon_Sequestration_Sundarban_Mangrove_Forest__Chilika_Lake
